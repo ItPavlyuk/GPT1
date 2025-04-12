@@ -14,7 +14,7 @@ public class Main {
         students.add(student3);
 
         for (Student student: students){
-            System.out.println("________");
+            System.out.println("__________");
             System.out.println(student.displayInfo());
         }
     }
