@@ -1,4 +1,4 @@
-package GPT.lesson4;
+package G.lesson4;
 
 public class Birds extends Animal {
     protected int wingSpan;

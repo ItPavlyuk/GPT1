@@ -1,6 +1,4 @@
-package GPT.lesson4;
-
-import java.util.ArrayList;
+package G.lesson4;
 
 public class Main {
     public static void main(String[] args) {

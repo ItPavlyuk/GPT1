@@ -1,4 +1,4 @@
-package GPT.lesson3;
+package G.lesson3;
 
 public abstract class Account {
     private String accountNumber;

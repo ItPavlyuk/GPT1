@@ -1,4 +1,4 @@
-package GPT.Lesson1;
+package G.Lesson1;
 
 public class Contact {
     private String first_name;

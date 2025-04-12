@@ -1,4 +1,4 @@
-package GPT.lesson3;
+package G.lesson3;
 
 import java.util.Scanner;
 

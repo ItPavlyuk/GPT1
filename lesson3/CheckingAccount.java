@@ -1,4 +1,4 @@
-package GPT.lesson3;
+package G.lesson3;
 
 public class CheckingAccount extends Account {
     private double overdraftLimit;
